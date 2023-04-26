@@ -8,4 +8,3 @@ const getListStudentIds = (listStudents) => {
 };
 
 export default getListofStudentIds;
-

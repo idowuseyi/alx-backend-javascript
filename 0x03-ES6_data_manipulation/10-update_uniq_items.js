@@ -11,4 +11,3 @@ const updateUniqueItems = (items) => {
 };
 
 export default updateUniqueItems;
-
